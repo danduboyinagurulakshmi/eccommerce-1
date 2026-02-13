@@ -1,0 +1,13 @@
+nav {
+  margin-top: 20px;
+  background-color: beige;
+  padding: 20px;
+
+}
+.navbar nav {
+  display: flex;
+  gap: 250px;         
+ 
+}
+
+
